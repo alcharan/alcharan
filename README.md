@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alcharan
 - 👀 I’m interested in Data Engineering and Data Analytics
-- 🌱 I’m currently learning PostgreSQL and Python
+- 🌱 I’m currently adadvadnzcing in PostgreSQL and Python
 - 💞️ I’m looking to collaborate on Data Science projects using Python and SQL
 - 📫 you can reach out to me at https://www.linkedin.com/in/anjulata-charan-31286411b/
 
